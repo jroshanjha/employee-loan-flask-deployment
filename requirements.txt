@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Flask
 scikit-learn
 gunicorn
@@ -14,20 +13,3 @@ flask-cors
 openpyxl 
 fpdf 
 python-docx
-=======
-Flask
-scikit-learn
-gunicorn
-numpy
-pandas 
-#scipy
-seaborn 
-matplotlib
-#statistics
-pickle
-joblib
-flask-cors 
-openpyxl 
-fpdf 
-python-docx
->>>>>>> 98c219e933690100f33036a59eddc0da467b5b7e
