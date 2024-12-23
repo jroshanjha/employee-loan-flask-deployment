@@ -1,0 +1,15 @@
+Flask
+scikit-learn
+gunicorn
+numpy
+pandas 
+#scipy
+seaborn 
+matplotlib
+#statistics
+pickle
+joblib
+flask-cors 
+openpyxl 
+fpdf 
+python-docx
