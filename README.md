@@ -11,7 +11,7 @@ git config --global user.email "abc@gmail.com" <br>
 python -m venv python_env <Br>
 venv/Scripts/activate
 
-### Emplyees Loan Amount Prediction Database:- http://www.kagle.com/datasets/
+### Emplyees Loan Amount Prediction Database:- [http://www.kagle.com/datasets/](https://www.kaggle.com/datasets?search=loan_data)
 
 # Install dependencies
 pip install -r requirements.txt
