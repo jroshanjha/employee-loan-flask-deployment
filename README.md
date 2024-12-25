@@ -1,5 +1,5 @@
 # employee-loan-flask-deployment
-This is ML Loan Flask Development for apply employees loan is approved or not.
+This is ML Employees Approved Loan Predictions Flask Development for applying employees' loan is approved or not.
 
 # Git Clone....
 git clone https://github.com/ 
