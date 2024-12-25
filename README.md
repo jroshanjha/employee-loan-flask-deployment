@@ -22,13 +22,13 @@ pip install -r requirements.txt
 ## Independent Variables:-
 person_age	person_gender	person_education	person_income	person_emp_exp	person_home_ownership	loan_amnt	loan_intent
 
-brew install git-lfs              # or download from https://git-lfs.github.com/
-git lfs install
-git lfs track "models/trained_model.pkl"  -- ".pkl"
-git add .gitattributes
-git add models/trained_model.pkl 
-git commit -m "Add trained model with Git LFS"
-git push origin development
+brew install git-lfs              # or download from https://git-lfs.github.com/ <Br>
+git lfs install <Br>
+git lfs track "models/trained_model.pkl"  -- ".pkl" <br>
+git add .gitattributes <br>
+git add models/trained_model.pkl  <Br>
+git commit -m "Add trained model with Git LFS" <br>
+git push origin development <br>
 
-git lfs push --all origin main
+git lfs push --all origin main <br>
 
