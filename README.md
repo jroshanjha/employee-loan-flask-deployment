@@ -8,7 +8,7 @@ git config --global user.name "abcuser" <Br>
 git config --global user.email "abc@gmail.com" <br>
 
 ## Create Virtual Environments & activate:- 
-python -m venv python_env
+python -m venv python_env <Br>
 venv/Scripts/activate
 
 ### Emplyees Loan Amount Prediction Database:- http://www.kagle.com/datasets/
