@@ -4,8 +4,8 @@ This is ML Employees Approved Loan Predictions Flask Development for applying em
 # Git Clone....
 git clone https://github.com/ 
 
-git config --global user.name "jroshanjha"
-git config --global user.email "jroshan731@gmail.com"
+git config --global user.name "abcuser" <Br>
+git config --global user.email "abc@gmail.com" <br>
 
 ## Create Virtual Environments & activate:- 
 python -m venv python_env
