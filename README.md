@@ -1,6 +1,8 @@
 # employee-loan-flask-deployment
 This is ML Employees Approved Loan Predictions Flask Development for applying employees' loan is approved or not.
 
+Data cleaning & preprocessing and then comparing ML algorithms for which is best algorithms used Developed a machine learning model to predict employees' loan eligibility based on their profile data, including income, credit score, and employment history. And check for hyperparameter technique and Cross validation technique
+
 # Git Clone....
 git clone https://github.com/ 
 
